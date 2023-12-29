@@ -37,6 +37,7 @@ const methods = {
     'WithdrawCancel',
     'GetWebSocketsToken',
     'Staking/Assets',
+    'Earn/Strategies',
   ],
 };
 
